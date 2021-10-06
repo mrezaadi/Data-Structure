@@ -1,2 +1,2 @@
 # Struktur-Data
-Koleksi kumpulan latihan dantugas-tugas selama mengikuti mata kuliah Strtutur Data di Semester 3 Universitas Telkom
+Koleksi kumpulan latihan dan tugas-tugas selama mengikuti mata kuliah Stuktur Data di Semester 3 Universitas Telkom.
