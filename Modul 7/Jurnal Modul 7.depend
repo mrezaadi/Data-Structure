@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635729977 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 7\jurnal modul 7\main.cpp
+	"DLL.h"
+
+1635730693 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 7\jurnal modul 7\dll.cpp
+	"DLL.h"
+
+1635728538 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 7\jurnal modul 7\dll.h
+	<iostream>
+

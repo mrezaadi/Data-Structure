@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634357661 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 4\jurnal\jurnal modul 4\main.cpp
+	"mylist.h"
+
+1634357061 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 4\jurnal\jurnal modul 4\mylist.h
+	<iostream>
+
+1634357104 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 4\jurnal\jurnal modul 4\mylist.cpp
+	"mylist.h"
+

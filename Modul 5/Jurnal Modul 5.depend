@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1634523311 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 5\jurnal\jurnal modul 5\main.cpp
+	"SLL.h"
+
+1634523321 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 5\jurnal\jurnal modul 5\sll.h
+	<iostream>
+
+1634524027 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 5\jurnal\jurnal modul 5\sll.cpp
+	"SLL.h"
+

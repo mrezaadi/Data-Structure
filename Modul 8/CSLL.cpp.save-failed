@@ -1,0 +1,19 @@
+#include "CSLL.h"
+
+void createList(List &L){
+    first(L) = NULL;
+    last(L) = NULL;
+}
+address createNewElement(infotype data){
+}
+void insertLast(List &L, address P);
+void insertFirst(List &L, address P);
+void insertAfter(address Prec, address P);
+void insertAscending(List &L, infotype dataBaru);
+void deleteFirst(List &L, address &P);
+void deleteLast(List &L, address &P);
+void deleteAfter(address Prec, address &P);
+void deleteElemen(List &L, infotype dataHapus);
+void printList(List L);
+bool findElement(List L, infotype dataDicari);
+int frequencyOfElm(List L, infotype dataDicari);

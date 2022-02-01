@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633310236 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 3\jurnal\jurnal modul 3\main.cpp
+	"catalog.h"
+
+1633311156 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 3\jurnal\jurnal modul 3\catalog.h
+	<iostream>
+
+1633310818 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 3\jurnal\jurnal modul 3\catalog.cpp
+	"catalog.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638152353 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\queue block chain\main.cpp
+	"Queue.h"
+
+1638152197 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\queue block chain\queue.cpp
+	"Queue.h"
+
+1638152150 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\queue block chain\queue.h
+	<iostream>
+

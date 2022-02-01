@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635723033 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\tugas pendahuluan\tp 7\csll\main.cpp
+	"CSLL.h"
+
+1637542387 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\tugas pendahuluan\tp 7\csll\csll.cpp
+	"CSLL.h"
+
+1637542106 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\tugas pendahuluan\tp 7\csll\csll.h
+	<iostream>
+

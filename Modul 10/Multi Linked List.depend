@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1638757262 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 10\multi linked list\main.cpp
+	"MLL.h"
+
+1638757480 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 10\multi linked list\mll.cpp
+	"MLL.h"
+
+1638756824 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 10\multi linked list\mll.h
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1639359289 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 11\assessment stack and queueu\main.cpp
+	"src.h"
+
+1639358933 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 11\assessment stack and queueu\src.h
+	<iostream>
+
+1639359240 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 11\assessment stack and queueu\src.cpp
+	"src.h"
+

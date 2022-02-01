@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1638151001 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\stack dan queue\main.cpp
+	"stack.h"
+
+1638151016 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\stack dan queue\stack.cpp
+	"stack.h"
+
+1638150258 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\stack dan queue\stack.h
+	<iostream>
+
+1638151001 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\stack\main.cpp
+	"stack.h"
+
+1638150258 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\stack\stack.h
+	<iostream>
+
+1638151016 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 9\stack\stack.cpp
+	"stack.h"
+

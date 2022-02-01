@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635128445 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 6\jurnal\jurnal modul 6\main.cpp
+	"DLL_First_Last.h"
+
+1635128041 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 6\jurnal\jurnal modul 6\dll_first_last.h
+	<iostream>
+
+1635128394 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\praktikum\modul 6\jurnal\jurnal modul 6\dll_first_last.cpp
+	"DLL_First_Last.h"
+
