@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640942161 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\tubes std\main.cpp
+	"src.h"
+
+1641514484 source:c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\tubes std\src.cpp
+	"src.h"
+
+1639122720 c:\users\reza\onedrive\documents\telkom university\praktikum\struktur data\tubes std\src.h
+	<iostream>
+
